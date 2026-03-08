@@ -1,4 +1,4 @@
-Responsive Registration Form
+## Responsive Registration Form
 
 A modern, clean, and fully responsive registration form built with HTML5 and CSS3. 
 This project focuses on layout flexibility and user experience across different screen sizes.
@@ -22,5 +22,6 @@ You can view the live demo here: [https://habibaesamm.github.io/responsive-form/
 
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/habiba-essam-2050a33a0) | [GitHub](https://github.com/habibaesamm)
+
 
 
